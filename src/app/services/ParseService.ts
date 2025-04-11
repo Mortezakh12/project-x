@@ -7,3 +7,4 @@ export function initializeParse() {
 }
 
 // Call initializeParse() in your useEffect (or in _app.js for Next.js)
+
